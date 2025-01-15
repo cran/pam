@@ -1,7 +1,7 @@
 Package: pam
 Type: Package
 Title: Fast and Efficient Processing of PAM Data
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person(
         "Julien",
@@ -28,9 +28,9 @@ RoxygenNote: 7.3.2
 Imports: data.table, dplyr, ggplot2, minpack.lm, cowplot, gridExtra,
         ggthemes
 NeedsCompilation: no
-Packaged: 2025-01-11 19:58:25 UTC; julien
+Packaged: 2025-01-15 12:55:04 UTC; julien
 Author: Julien Böhm [cre, aut] (<https://orcid.org/0009-0002-2704-2289>),
   Philipp Schrag [aut] (<https://orcid.org/0009-0002-7697-5536>)
 Maintainer: Julien Böhm <julien.boehm@uni-rostock.de>
 Repository: CRAN
-Date/Publication: 2025-01-14 10:20:05 UTC
+Date/Publication: 2025-01-15 13:40:01 UTC
